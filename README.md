@@ -2,6 +2,12 @@
 
 A Next.js App that demonstrates the use of firebase auth on client and the server. Follows the auth sections of the [Integrate Firebase with a Next.js app codelab.](https://firebase.google.com/codelabs/firebase-nextjs)
 
+## Instructions to run
+
+- Run `npm install` at the root.
+- Run `npm run build-service-worker` to build the service worker. The built file will be saved inside the public folder.
+- Run `npm run dev` to spin up the dev server.
+
 ## Reference
 
 The core implementation code can be found under the [src/app/lib/firebase folder](https://github.com/salman3k1/next-firebase-auth/tree/main/src/lib/firebase).
