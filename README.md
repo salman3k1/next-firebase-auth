@@ -14,4 +14,4 @@ The core implementation code can be found under the [src/app/lib/firebase folder
 
 ## ENV
 
-This example uses some environmental variables to contain the firebase credentials. You can copy the .env.example file and rename it as .env.local. You can then replace the env variable values with your own credentials.
+This example uses some environmental variables to contain the firebase credentials. You can copy the `.env.example` file and rename it as `.env.local`. You can then replace the env variable values with your own credentials.
